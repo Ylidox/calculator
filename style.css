@@ -1,0 +1,52 @@
+*{
+	text-align: center;
+}
+.staff{
+	background-color: #61FC93;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.staff:hover{
+	background-color: #33FF74;
+}
+.staff:active{
+	background-color: #77F09D;
+}
+
+.number{
+	background-color: #BDE2F0;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.number:hover{
+	background-color: #9DD8EE;
+}
+.number:active{
+	background-color: #D5E4E9;
+}
+
+body{
+	margin: 0 auto;
+}
+.table{
+	width: 100%;
+}
+
+table{
+	border: 1px solid gray;
+	margin: 0 auto;
+	margin-top: 17%;
+	box-shadow: 1px 1px 1px 1px #ccc;
+}
+
+button{
+	width: 100%;
+}
+
+input{
+	text-align: left;
+	box-shadow: 1px 1px 1px 1px #ccc;
+	background: whitesmoke;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
